@@ -20,8 +20,9 @@
     <!-- Styles -->
     <!--<link href="{{ asset('css/app.css') }}" rel="stylesheet">-->
     <link href="{{ secure_asset('css/app.css') }}" rel="stylesheet">
-
+    
     <!--<link href="{{ asset('css/fuentes.css') }}" rel="stylesheet">-->
+    <!---->
     <link href="{{ secure_asset('css/fuentes.css') }}" rel="stylesheet">
 
         <style>
@@ -43,7 +44,7 @@
 </head>
 <body>
     <div id="app">
-        
+
             @yield('content')
        
     </div>
