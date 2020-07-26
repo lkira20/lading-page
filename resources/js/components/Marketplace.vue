@@ -1,5 +1,5 @@
 <template>
-	<div>
+	<div id="super-caja-mar">
 		<div id="marketplace">
 			<navbar/>
 			<br style="margin-top: 65px;">
@@ -32,12 +32,12 @@
 				<h2 class="text-center">TAMBIÉN PUEDE INTERESARTE</h2>
 			</div>								
 			<div class="row">
-				<div class="col-sm-12 col-md-6">
+				<div class="col-sm-12 col-md-6 my-3">
 					<a href="" @click="navegarexpress">
 					<express/>
 					</a>
 				</div>
-				<div class="col-sm-12 col-md-6">
+				<div class="col-sm-12 col-md-6 my-3">
 					<a href="" @click="navegarvtex">
 					<vtex/>
 					</a>
@@ -97,7 +97,8 @@
 <style scoped>
 	#marketplace{
 		background-image: url("../../../public/image/imagen-2.jpg");
-		background-size: 100%;
+		background-size: cover;
+		background-position: center;
 		height: 100%;
 	}
 
@@ -107,7 +108,12 @@
 
 	#caja-ver-mas-2{
 		background-image: url("../../../public/image/imagen-1.jpg");
-		background-size: 100%;
+		background-size: cover;
+		background-position: center;
 		
+	}
+
+	#super-caja-mar{
+		overflow-x: hidden;
 	}
 </style>

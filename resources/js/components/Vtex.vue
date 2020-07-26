@@ -1,5 +1,5 @@
 <template>
-	<div >
+	<div id="super-caja-vtex">
 		<div id="vtex">
 			<navbar/>
 			<br style="margin-top: 65px;">
@@ -30,12 +30,12 @@
 			<h2 class="text-center">TAMBIÉN PUEDE INTERESARTE</h2>
 								
 			<div class="row">
-				<div class="col-sm-12 col-md-6">
+				<div class="col-sm-12 col-md-6 my-3">
 					<a href="" @click="navegarexpress">
 					<express/>
 					</a>
 				</div>
-				<div class="col-sm-12 col-md-6">
+				<div class="col-sm-12 col-md-6 my-3">
 					<a href="" @click="navegarmarketplace">
 					<marketplace/>
 					</a>
@@ -95,7 +95,8 @@
 <style scoped>
 	#vtex{
 		background-image: url("../../../public/image/imagen-2.jpg");
-		background-size: 100%;
+		background-size: cover;
+		background-position: center;
 	}
 
 	a{
@@ -104,7 +105,11 @@
 
 	#caja-ver-mas-3{
 		background-image: url("../../../public/image/imagen-1.jpg");
-		background-size: 100%;
-		height: 100%;
+		background-size: cover;
+		background-position: centery
+	}
+
+	#super-caja-vtex{
+		overflow-x: hidden;
 	}
 </style>

@@ -1,11 +1,12 @@
 <template>
 	<div id="test">
 		<div class="row align-items-center" style="height: 100%;" id="error">
-
-			<div class="col-sm-12 col-md-12" style="margin-top: 13%;">
+	
+			<div class="col-sm-12 col-md-12" >
 				<div class="row justify-content-center">
 					<div class="col-12">
-						<p class="text-center h3">¿Cual es la tienda virtual mas indicada para mi?</p>
+						<p class="text-center d-lg-none" id="eslogan">El que tenga tienda que no la atienda</p>
+						<p class="text-center h3" id="pregunta">¿Cual es la tienda virtual mas indicada para mi?</p>
 					</div>
 					
 	
@@ -210,13 +211,91 @@
 	#test{
 		height: 100%;
 		background-image: url("../../../public/image/imagen-3.jpg");
-		background-size: 100%;
+		background-size: cover;
+		background-position: center;
+		position: relative;
 		
 		/*background-repeat: no-repeat;*/
 	}
 
+	#pregunta{
+		margin-top: 10em;
+
+	}
+
+	#eslogan{
+		margin-top: 50px;
+		font-size: 3em;
+	}
+
 	#error{
 		overflow: hidden;
+	}
+
+	@media (max-width: 768px){
+		#test{
+			background-image: url("../../../public/image/oficina.jpg");
+			background-size: cover;
+			background-position: center;
+			position: relative;
+		}
+
+		#test:before{
+		content:'';
+		  position: absolute;
+		        top: 0;
+		  bottom: 0;
+		  left: 0;
+		  right: 0;
+		  background-color: rgba(1,14,110,0.8);	
+		}
+	
+		#pregunta{
+			margin-top: auto;
+
+		}
+
+		#eslogan{
+			margin-top: 3.5em;
+			font-size: 3em;
+		}
+
+	}
+
+	@media (min-width: 768px)and (max-width: 992px){
+		#test{
+		background-image: url("../../../public/image/oficina.jpg");
+		background-size: cover;
+		background-position: center;
+		}
+
+		#test:before{
+		content:'';
+		  position: absolute;
+		        top: 0;
+		  bottom: 0;
+		  left: 0;
+		  right: 0;
+		  background-color: rgba(1,14,110,0.8);																					
+		}
+
+		#pregunta{
+			margin-top: auto;
+
+		}
+
+		#eslogan{
+			margin-top: 1.5em;
+			font-size: 6em;
+		}
+	}
+
+	@media (min-width: 992px)and (max-width: 1200px){
+		#test{
+		
+			background-size: cover;
+			background-position: center;
+		}
 	}
 
 </style>

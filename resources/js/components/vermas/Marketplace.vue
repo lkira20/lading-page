@@ -1,5 +1,5 @@
 <template>
-	<div class="card" id="carta-1" style="height: 250px;">
+	<div class="card  mt-3" id="carta-1" style="height: 100%;">
 		<div class="card-body">
 			<h3 class="card-title">TIENDAS PERSONALIZADAS - MARKET PLACE</h3>
 			<p class="card-text">

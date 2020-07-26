@@ -5,10 +5,10 @@
 		<h2 class="text-center display-4">Testimonios</h2>
 		<div class="row justify-content-center" v-for="(usuario,index) in usuarios" :key="index">
 			<div class="col-sm-12 col-md-3"">
-				<img :src="usuario.avatar" alt="" class="img-fluid mx-auto d-block rounded-circle w-100">
+				<img :src="usuario.avatar" alt="" class="img-fluid mx-auto d-block rounded-circle w-100 m-3">
 			</div>
 			<div class="col-sm-12 col-md-9">
-				<div class="card mt-3" id="card-testimonios">
+				<div class="card m-3" id="card-testimonios">
 					<div class="card-header">
 						<h3 class="card-title text-center" style="color: black;">{{usuario.first_name}}</h3>
 					</div>

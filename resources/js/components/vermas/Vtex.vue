@@ -1,5 +1,5 @@
 <template>
-	<div class="card" id="vtex-sub" style="height: 250px;">
+	<div class="card mt-3" id="vtex-sub" style="height: 100%;">
 		<div class="card-body">
 			<h3 class="card-title">TIENDAS VTEX</h3>
 			<p class="card-text">

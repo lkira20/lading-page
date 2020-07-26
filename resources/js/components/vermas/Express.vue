@@ -1,5 +1,5 @@
 <template>
-	<div class="card" id="express-sub" style="height: 250px;">
+	<div class="card  mt-3" id="express-sub" style="height: 100%;">
 		<div class="card-body">
 			<h3 class="card-title">TIENDAS EXPRESS</h3>
 			<p class="card-text">

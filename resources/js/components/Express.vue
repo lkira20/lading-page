@@ -1,5 +1,5 @@
 <template>
-	<div >
+	<div id="super-caja-ex">
 		<div id="express">
 			<navbar/>
 			<br style="margin-top: 65px;">
@@ -35,12 +35,12 @@
 					<br>
 					<h2 class="text-center">TAMBIÉN PUEDE INTERESARTE</h2>
 					<div class="row">
-						<div class="col-sm-12 col-md-6">
+						<div class="col-12 col-md-6 my-3">
 							<a href="" @click="navegarmarketplace">
 							<marketplace/>
 							</a>
 						</div>
-						<div class="col-sm-12 col-md-6">
+						<div class="col-12 col-md-6 my-3">
 							<a href="" @click="navegarvtex">
 							<vtex/>
 							</a>
@@ -103,7 +103,9 @@
 	#express{
 		height: 100%;
 		background-image: url("../../../public/image/imagen-2.jpg");
-		background-size: 100%;
+		background-size: cover;
+		background-position: center;
+		
 	}
 
 	a{
@@ -112,7 +114,12 @@
 
 	#caja-ver-mas{
 		background-image: url("../../../public/image/imagen-1.jpg");
-		background-size: 100%;
+		background-size: cover;
+		background-position: center;
 		height: 100%;
+	}
+
+	#super-caja-ex{
+		overflow-x: hidden;
 	}	
 </style>

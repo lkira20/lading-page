@@ -2346,6 +2346,80 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({});
 
 /***/ }),
@@ -2360,6 +2434,7 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Table_vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Table.vue */ "./resources/js/components/Table.vue");
+//
 //
 //
 //
@@ -7243,7 +7318,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, "\n#express[data-v-3c2afe56]{\n\theight: 100%;\n\tbackground-image: url(" + escape(__webpack_require__(/*! ../../../public/image/imagen-2.jpg */ "./public/image/imagen-2.jpg")) + ");\n\tbackground-size: 100%;\n}\na[data-v-3c2afe56]{\n\tcolor: white;\n}\n#caja-ver-mas[data-v-3c2afe56]{\n\tbackground-image: url(" + escape(__webpack_require__(/*! ../../../public/image/imagen-1.jpg */ "./public/image/imagen-1.jpg")) + ");\n\tbackground-size: 100%;\n\theight: 100%;\n}\t\n", ""]);
+exports.push([module.i, "\n#express[data-v-3c2afe56]{\n\theight: 100%;\n\tbackground-image: url(" + escape(__webpack_require__(/*! ../../../public/image/imagen-2.jpg */ "./public/image/imagen-2.jpg")) + ");\n\tbackground-size: cover;\n\tbackground-position: center;\n}\na[data-v-3c2afe56]{\n\tcolor: white;\n}\n#caja-ver-mas[data-v-3c2afe56]{\n\tbackground-image: url(" + escape(__webpack_require__(/*! ../../../public/image/imagen-1.jpg */ "./public/image/imagen-1.jpg")) + ");\n\tbackground-size: cover;\n\tbackground-position: center;\n\theight: 100%;\n}\n#super-caja-ex[data-v-3c2afe56]{\n\toverflow-x: hidden;\n}\t\n", ""]);
 
 // exports
 
@@ -7262,7 +7337,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, "\n#home{\n\theight: 100%;\n}\n", ""]);
+exports.push([module.i, "\n#home{\n\theight: 100%;\n\toverflow-x: hidden;\n}\n", ""]);
 
 // exports
 
@@ -7282,7 +7357,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, "\n#marketplace[data-v-09fe67b0]{\n\tbackground-image: url(" + escape(__webpack_require__(/*! ../../../public/image/imagen-2.jpg */ "./public/image/imagen-2.jpg")) + ");\n\tbackground-size: 100%;\n\theight: 100%;\n}\na[data-v-09fe67b0]{\n\tcolor: white;\n}\n#caja-ver-mas-2[data-v-09fe67b0]{\n\tbackground-image: url(" + escape(__webpack_require__(/*! ../../../public/image/imagen-1.jpg */ "./public/image/imagen-1.jpg")) + ");\n\tbackground-size: 100%;\n}\n", ""]);
+exports.push([module.i, "\n#marketplace[data-v-09fe67b0]{\n\tbackground-image: url(" + escape(__webpack_require__(/*! ../../../public/image/imagen-2.jpg */ "./public/image/imagen-2.jpg")) + ");\n\tbackground-size: cover;\n\tbackground-position: center;\n\theight: 100%;\n}\na[data-v-09fe67b0]{\n\tcolor: white;\n}\n#caja-ver-mas-2[data-v-09fe67b0]{\n\tbackground-image: url(" + escape(__webpack_require__(/*! ../../../public/image/imagen-1.jpg */ "./public/image/imagen-1.jpg")) + ");\n\tbackground-size: cover;\n\tbackground-position: center;\n}\n#super-caja-mar[data-v-09fe67b0]{\n\toverflow-x: hidden;\n}\n", ""]);
 
 // exports
 
@@ -7321,7 +7396,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, "\n#caja-tabla[data-v-5bd01d73]{\n\tbackground-image: url(" + escape(__webpack_require__(/*! ../../../public/image/imagen-1.jpg */ "./public/image/imagen-1.jpg")) + ");\n\tbackground-size: 100%;\n}\n#carta-tabla[data-v-5bd01d73]{\n\tbackground-color: rgba(256,256,256,0.8);\n}\n", ""]);
+exports.push([module.i, "\n#caja-tabla[data-v-5bd01d73]{\n\tbackground-image: url(" + escape(__webpack_require__(/*! ../../../public/image/imagen-1.jpg */ "./public/image/imagen-1.jpg")) + ");\n\tbackground-size: 100%;\n}\n#carta-tabla[data-v-5bd01d73], #tabla-responsive[data-v-5bd01d73]{\n\tbackground-color: rgba(256,256,256,0.8);\n}\n", ""]);
 
 // exports
 
@@ -7341,7 +7416,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, "\n#test[data-v-5f45227d]{\n\theight: 100%;\n\tbackground-image: url(" + escape(__webpack_require__(/*! ../../../public/image/imagen-3.jpg */ "./public/image/imagen-3.jpg")) + ");\n\tbackground-size: 100%;\n\t\n\t/*background-repeat: no-repeat;*/\n}\n#error[data-v-5f45227d]{\n\toverflow: hidden;\n}\n\n", ""]);
+exports.push([module.i, "\n#test[data-v-5f45227d]{\n\theight: 100%;\n\tbackground-image: url(" + escape(__webpack_require__(/*! ../../../public/image/imagen-3.jpg */ "./public/image/imagen-3.jpg")) + ");\n\tbackground-size: cover;\n\tbackground-position: center;\n\tposition: relative;\n\t\n\t/*background-repeat: no-repeat;*/\n}\n#pregunta[data-v-5f45227d]{\n\tmargin-top: 10em;\n}\n#eslogan[data-v-5f45227d]{\n\tmargin-top: 50px;\n\tfont-size: 3em;\n}\n#error[data-v-5f45227d]{\n\toverflow: hidden;\n}\n@media (max-width: 768px){\n#test[data-v-5f45227d]{\n\t\tbackground-image: url(" + escape(__webpack_require__(/*! ../../../public/image/oficina.jpg */ "./public/image/oficina.jpg")) + ");\n\t\tbackground-size: cover;\n\t\tbackground-position: center;\n\t\tposition: relative;\n}\n#test[data-v-5f45227d]:before{\n\tcontent:'';\n\t  position: absolute;\n\t        top: 0;\n\t  bottom: 0;\n\t  left: 0;\n\t  right: 0;\n\t  background-color: rgba(1,14,110,0.8);\n}\n#pregunta[data-v-5f45227d]{\n\t\tmargin-top: auto;\n}\n#eslogan[data-v-5f45227d]{\n\t\tmargin-top: 3.5em;\n\t\tfont-size: 3em;\n}\n}\n@media (min-width: 768px)and (max-width: 992px){\n#test[data-v-5f45227d]{\n\tbackground-image: url(" + escape(__webpack_require__(/*! ../../../public/image/oficina.jpg */ "./public/image/oficina.jpg")) + ");\n\tbackground-size: cover;\n\tbackground-position: center;\n}\n#test[data-v-5f45227d]:before{\n\tcontent:'';\n\t  position: absolute;\n\t        top: 0;\n\t  bottom: 0;\n\t  left: 0;\n\t  right: 0;\n\t  background-color: rgba(1,14,110,0.8);\n}\n#pregunta[data-v-5f45227d]{\n\t\tmargin-top: auto;\n}\n#eslogan[data-v-5f45227d]{\n\t\tmargin-top: 1.5em;\n\t\tfont-size: 6em;\n}\n}\n@media (min-width: 992px)and (max-width: 1200px){\n#test[data-v-5f45227d]{\n\t\n\t\tbackground-size: cover;\n\t\tbackground-position: center;\n}\n}\n\n", ""]);
 
 // exports
 
@@ -7381,7 +7456,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, "\n#vtex[data-v-30d97a5c]{\n\tbackground-image: url(" + escape(__webpack_require__(/*! ../../../public/image/imagen-2.jpg */ "./public/image/imagen-2.jpg")) + ");\n\tbackground-size: 100%;\n}\na[data-v-30d97a5c]{\n\tcolor: white;\n}\n#caja-ver-mas-3[data-v-30d97a5c]{\n\tbackground-image: url(" + escape(__webpack_require__(/*! ../../../public/image/imagen-1.jpg */ "./public/image/imagen-1.jpg")) + ");\n\tbackground-size: 100%;\n\theight: 100%;\n}\n", ""]);
+exports.push([module.i, "\n#vtex[data-v-30d97a5c]{\n\tbackground-image: url(" + escape(__webpack_require__(/*! ../../../public/image/imagen-2.jpg */ "./public/image/imagen-2.jpg")) + ");\n\tbackground-size: cover;\n\tbackground-position: center;\n}\na[data-v-30d97a5c]{\n\tcolor: white;\n}\n#caja-ver-mas-3[data-v-30d97a5c]{\n\tbackground-image: url(" + escape(__webpack_require__(/*! ../../../public/image/imagen-1.jpg */ "./public/image/imagen-1.jpg")) + ");\n\tbackground-size: cover;\n\tbackground-position: centery\n}\n#super-caja-vtex[data-v-30d97a5c]{\n\toverflow-x: hidden;\n}\n", ""]);
 
 // exports
 
@@ -39607,7 +39682,7 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c("div", [
+  return _c("div", { attrs: { id: "super-caja-ex" } }, [
     _c(
       "div",
       { attrs: { id: "express" } },
@@ -39648,7 +39723,7 @@ var render = function() {
         ]),
         _vm._v(" "),
         _c("div", { staticClass: "row" }, [
-          _c("div", { staticClass: "col-sm-12 col-md-6" }, [
+          _c("div", { staticClass: "col-12 col-md-6 my-3" }, [
             _c(
               "a",
               { attrs: { href: "" }, on: { click: _vm.navegarmarketplace } },
@@ -39657,7 +39732,7 @@ var render = function() {
             )
           ]),
           _vm._v(" "),
-          _c("div", { staticClass: "col-sm-12 col-md-6" }, [
+          _c("div", { staticClass: "col-12 col-md-6 my-3" }, [
             _c(
               "a",
               { attrs: { href: "" }, on: { click: _vm.navegarvtex } },
@@ -39807,7 +39882,7 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c("div", [
+  return _c("div", { attrs: { id: "super-caja-mar" } }, [
     _c(
       "div",
       { attrs: { id: "marketplace" } },
@@ -39845,7 +39920,7 @@ var render = function() {
       _vm._m(2),
       _vm._v(" "),
       _c("div", { staticClass: "row" }, [
-        _c("div", { staticClass: "col-sm-12 col-md-6" }, [
+        _c("div", { staticClass: "col-sm-12 col-md-6 my-3" }, [
           _c(
             "a",
             { attrs: { href: "" }, on: { click: _vm.navegarexpress } },
@@ -39854,7 +39929,7 @@ var render = function() {
           )
         ]),
         _vm._v(" "),
-        _c("div", { staticClass: "col-sm-12 col-md-6" }, [
+        _c("div", { staticClass: "col-sm-12 col-md-6 my-3" }, [
           _c(
             "a",
             { attrs: { href: "" }, on: { click: _vm.navegarvtex } },
@@ -40153,25 +40228,23 @@ var staticRenderFns = [
     return _c("div", { attrs: { id: "caja-tabla" } }, [
       _c("br"),
       _vm._v(" "),
-      _c(
-        "div",
-        { staticClass: "card container shadow", attrs: { id: "carta-tabla" } },
-        [
-          _c(
-            "p",
-            {
-              staticClass: "display-4 text-center",
-              staticStyle: { color: "black" }
-            },
-            [_vm._v("Tiendas virtuales")]
-          ),
-          _vm._v(" "),
-          _c("div", { staticClass: "card-body" }, [
+      _c("div", {}, [
+        _c("p", { staticClass: "display-4 text-center" }, [
+          _vm._v("Tiendas virtuales")
+        ]),
+        _vm._v(" "),
+        _c(
+          "div",
+          {
+            staticClass: "card container shadow",
+            attrs: { id: "carta-tabla" }
+          },
+          [
             _c(
               "table",
               {
                 staticClass:
-                  "table table-sm table-striped table-hover table-bordered"
+                  "table table-sm table-striped table-hover table-bordered d-none d-md-block"
               },
               [
                 _c("thead", { staticClass: "thead-dark" }, [
@@ -40214,7 +40287,7 @@ var staticRenderFns = [
                     _vm._v(" "),
                     _c("td", [_vm._v("1")]),
                     _vm._v(" "),
-                    _c("td", [_vm._v(">1")])
+                    _c("td", [_vm._v("1")])
                   ]),
                   _vm._v(" "),
                   _c("tr", [
@@ -40287,9 +40360,121 @@ var staticRenderFns = [
                 ])
               ]
             )
-          ])
-        ]
-      ),
+          ]
+        ),
+        _vm._v(" "),
+        _c(
+          "table",
+          {
+            staticClass:
+              "table table-sm table-striped table-hover table-bordered d-block d-md-none m-auto",
+            attrs: { id: "tabla-responsive" }
+          },
+          [
+            _c("thead", { staticClass: "thead-dark" }, [
+              _c("tr", [
+                _c("th", [_vm._v("Tienda Express")]),
+                _vm._v(" "),
+                _c("th", [_vm._v("Marketplace MC")]),
+                _vm._v(" "),
+                _c("th", [_vm._v("Tiendas Vtex")])
+              ])
+            ]),
+            _vm._v(" "),
+            _c("tbody", [
+              _c("tr", [
+                _c("td", [_vm._v("Dominio y hosting incluido ")]),
+                _vm._v(" "),
+                _c("td", [_vm._v("Dominio y hosting no incluido")]),
+                _vm._v(" "),
+                _c("td", [_vm._v("Dominio y hosting No incluido")])
+              ]),
+              _vm._v(" "),
+              _c("tr", [
+                _c("td", [_vm._v("Tiempo de producción 5 días")]),
+                _vm._v(" "),
+                _c("td", [_vm._v("Tiempo de producción variado")]),
+                _vm._v(" "),
+                _c("td", [_vm._v("Tiempo de producción 13 meses")])
+              ]),
+              _vm._v(" "),
+              _c("tr", [
+                _c("td", [_vm._v("Número de tiendas físicas 0 - 1")]),
+                _vm._v(" "),
+                _c("td", [_vm._v("Número de tiendas físicas 1")]),
+                _vm._v(" "),
+                _c("td", [_vm._v("Número de tiendas físicas 1")])
+              ]),
+              _vm._v(" "),
+              _c("tr", [
+                _c("td", [
+                  _vm._v(
+                    'Personalización: "BÁSICA\nLogo, banners, categorías, productos, referencias, precios, blog, direcciones, políticas de pago,  y whatsapp."'
+                  )
+                ]),
+                _vm._v(" "),
+                _c("td", [
+                  _vm._v(
+                    'Personalización: "MEDIA\nLogo, colores, Categorias, productos, referencias, precios, Upselling, politicas de pago, tipos de clientes, tipos de usuarios, notificaciones por correo, vendedores, canales de ventas"'
+                  )
+                ]),
+                _vm._v(" "),
+                _c("td", [
+                  _vm._v(
+                    'Personalización: "FULL\n\t\t\t\t\t\t\t\t\t100% personailizable e inteligente"'
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("tr", [
+                _c("td", [_vm._v("Articulación con pasarela de pagos Si")]),
+                _vm._v(" "),
+                _c("td", [_vm._v("Articulación con pasarela de pagos Si")]),
+                _vm._v(" "),
+                _c("td", [_vm._v("Articulación con pasarela de pagos Si")])
+              ]),
+              _vm._v(" "),
+              _c("tr", [
+                _c("td", [_vm._v("No requiere experto para montarla")]),
+                _vm._v(" "),
+                _c("td", [
+                  _vm._v(
+                    "Requiere 8 horas de capacitacion para montarla, Requiere 8 horas de capacitación"
+                  )
+                ]),
+                _vm._v(" "),
+                _c("td", [_vm._v("Si requiere experto para montarla")])
+              ]),
+              _vm._v(" "),
+              _c("tr", [
+                _c("td", [
+                  _vm._v("El inventario se carga manual o semanal en un excel ")
+                ]),
+                _vm._v(" "),
+                _c("td", [
+                  _vm._v(
+                    'El intventario se carga"manual\nIntegra con Software (Integración la debe realizar el cliente final)"'
+                  )
+                ]),
+                _vm._v(" "),
+                _c("td", [
+                  _vm._v("El inventario integra con software o carga por API")
+                ])
+              ]),
+              _vm._v(" "),
+              _c("tr", [
+                _c("td", [_vm._v("No tiene facturacion electronica")]),
+                _vm._v(" "),
+                _c("td", [_vm._v("Sí tiene facturacion electronica")]),
+                _vm._v(" "),
+                _c("td", [
+                  _vm._v("Integra con software de facturacion electronica")
+                ])
+              ])
+            ])
+          ]
+        )
+      ]),
       _vm._v(" "),
       _c("br")
     ])
@@ -40325,1183 +40510,1168 @@ var render = function() {
         attrs: { id: "error" }
       },
       [
-        _c(
-          "div",
-          {
-            staticClass: "col-sm-12 col-md-12",
-            staticStyle: { "margin-top": "13%" }
-          },
-          [
-            _c("div", { staticClass: "row justify-content-center" }, [
-              _vm._m(0),
-              _vm._v(" "),
-              _c(
-                "button",
-                {
-                  staticClass: "btn-lg btn-primary rounded-pill",
-                  attrs: {
-                    type: "button",
-                    "data-toggle": "modal",
-                    "data-target": "#exampleModal"
-                  }
-                },
-                [_vm._v("\n\t\t\t\t Conocer la tienda ideal para mi\n\t\t\t\t")]
-              ),
-              _vm._v(" "),
-              _c(
-                "div",
-                {
-                  staticClass: "modal fade",
-                  attrs: {
-                    id: "exampleModal",
-                    tabindex: "-1",
-                    role: "dialog",
-                    "aria-labelledby": "exampleModalLabel",
-                    "aria-hidden": "true"
-                  }
-                },
-                [
-                  _c("div", { staticClass: "modal-dialog" }, [
-                    _c("div", { staticClass: "modal-content" }, [
-                      _vm._m(1),
-                      _vm._v(" "),
-                      _c("div", { staticClass: "modal-body" }, [
-                        _c(
-                          "div",
-                          {
-                            staticClass: "container card shadow-lg",
-                            staticStyle: { color: "black" }
-                          },
-                          [
-                            _c("div", { staticClass: "card-body" }, [
-                              _c(
-                                "form",
-                                {
-                                  on: {
-                                    submit: function($event) {
-                                      $event.preventDefault()
-                                      return _vm.enviar($event)
-                                    }
+        _c("div", { staticClass: "col-sm-12 col-md-12" }, [
+          _c("div", { staticClass: "row justify-content-center" }, [
+            _vm._m(0),
+            _vm._v(" "),
+            _c(
+              "button",
+              {
+                staticClass: "btn-lg btn-primary rounded-pill",
+                attrs: {
+                  type: "button",
+                  "data-toggle": "modal",
+                  "data-target": "#exampleModal"
+                }
+              },
+              [_vm._v("\n\t\t\t\t Conocer la tienda ideal para mi\n\t\t\t\t")]
+            ),
+            _vm._v(" "),
+            _c(
+              "div",
+              {
+                staticClass: "modal fade",
+                attrs: {
+                  id: "exampleModal",
+                  tabindex: "-1",
+                  role: "dialog",
+                  "aria-labelledby": "exampleModalLabel",
+                  "aria-hidden": "true"
+                }
+              },
+              [
+                _c("div", { staticClass: "modal-dialog" }, [
+                  _c("div", { staticClass: "modal-content" }, [
+                    _vm._m(1),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "modal-body" }, [
+                      _c(
+                        "div",
+                        {
+                          staticClass: "container card shadow-lg",
+                          staticStyle: { color: "black" }
+                        },
+                        [
+                          _c("div", { staticClass: "card-body" }, [
+                            _c(
+                              "form",
+                              {
+                                on: {
+                                  submit: function($event) {
+                                    $event.preventDefault()
+                                    return _vm.enviar($event)
                                   }
-                                },
-                                [
-                                  _vm.contador == 1
-                                    ? _c("div", { staticClass: "form-group" }, [
-                                        _c("p", [
-                                          _vm._v(
-                                            "¿Tiene ya un hosting y o dominio adquirido para tu nueva tienda?"
-                                          )
-                                        ]),
-                                        _vm._v(" "),
-                                        _c(
-                                          "div",
-                                          {
-                                            staticClass:
-                                              "form-check form-check-inline"
-                                          },
-                                          [
-                                            _c("input", {
-                                              directives: [
-                                                {
-                                                  name: "model",
-                                                  rawName: "v-model.number",
-                                                  value: _vm.pregunta1,
-                                                  expression: "pregunta1",
-                                                  modifiers: { number: true }
-                                                }
-                                              ],
-                                              staticClass: "form-check-input",
-                                              attrs: {
-                                                required: "",
-                                                type: "radio",
-                                                name: "pregunta1",
-                                                value: "1"
-                                              },
-                                              domProps: {
-                                                checked: _vm._q(
-                                                  _vm.pregunta1,
-                                                  _vm._n("1")
-                                                )
-                                              },
-                                              on: {
-                                                change: function($event) {
-                                                  _vm.pregunta1 = _vm._n("1")
-                                                }
-                                              }
-                                            }),
-                                            _vm._v(" "),
-                                            _c(
-                                              "label",
-                                              {
-                                                staticClass: "form-check-label",
-                                                attrs: { for: "pregunta11" }
-                                              },
-                                              [_vm._v("si")]
-                                            )
-                                          ]
-                                        ),
-                                        _vm._v(" "),
-                                        _c(
-                                          "div",
-                                          {
-                                            staticClass:
-                                              "form-check form-check-inline"
-                                          },
-                                          [
-                                            _c("input", {
-                                              directives: [
-                                                {
-                                                  name: "model",
-                                                  rawName: "v-model.number",
-                                                  value: _vm.pregunta1,
-                                                  expression: "pregunta1",
-                                                  modifiers: { number: true }
-                                                }
-                                              ],
-                                              staticClass: "form-check-input",
-                                              attrs: {
-                                                type: "radio",
-                                                name: "pregunta1",
-                                                value: "2"
-                                              },
-                                              domProps: {
-                                                checked: _vm._q(
-                                                  _vm.pregunta1,
-                                                  _vm._n("2")
-                                                )
-                                              },
-                                              on: {
-                                                change: function($event) {
-                                                  _vm.pregunta1 = _vm._n("2")
-                                                }
-                                              }
-                                            }),
-                                            _vm._v(" "),
-                                            _c(
-                                              "label",
-                                              {
-                                                staticClass: "form-check-label",
-                                                attrs: { for: "pregunta12" }
-                                              },
-                                              [_vm._v("no")]
-                                            )
-                                          ]
-                                        ),
-                                        _vm._v(" "),
-                                        _c(
-                                          "div",
-                                          {
-                                            staticClass:
-                                              "form-check form-check-inline"
-                                          },
-                                          [
-                                            _c("input", {
-                                              directives: [
-                                                {
-                                                  name: "model",
-                                                  rawName: "v-model.number",
-                                                  value: _vm.pregunta1,
-                                                  expression: "pregunta1",
-                                                  modifiers: { number: true }
-                                                }
-                                              ],
-                                              staticClass: "form-check-input",
-                                              attrs: {
-                                                type: "radio",
-                                                name: "pregunta1",
-                                                value: "3"
-                                              },
-                                              domProps: {
-                                                checked: _vm._q(
-                                                  _vm.pregunta1,
-                                                  _vm._n("3")
-                                                )
-                                              },
-                                              on: {
-                                                change: function($event) {
-                                                  _vm.pregunta1 = _vm._n("3")
-                                                }
-                                              }
-                                            }),
-                                            _vm._v(" "),
-                                            _c(
-                                              "label",
-                                              {
-                                                staticClass: "form-check-label",
-                                                attrs: { for: "pregunta13" }
-                                              },
-                                              [_vm._v("no lo se")]
-                                            )
-                                          ]
+                                }
+                              },
+                              [
+                                _vm.contador == 1
+                                  ? _c("div", { staticClass: "form-group" }, [
+                                      _c("p", [
+                                        _vm._v(
+                                          "¿Tiene ya un hosting y o dominio adquirido para tu nueva tienda?"
                                         )
-                                      ])
-                                    : _vm._e(),
-                                  _vm._v(" "),
-                                  _vm.contador == 2
-                                    ? _c("div", { staticClass: "form-group" }, [
-                                        _c("p", [
-                                          _vm._v(
-                                            "¿En cuanto tiempo necesitas que tu tienda virtual este al aire?"
-                                          )
-                                        ]),
-                                        _vm._v(" "),
-                                        _c(
-                                          "div",
-                                          {
-                                            staticClass:
-                                              "form-check form-check-inline"
-                                          },
-                                          [
-                                            _c("input", {
-                                              directives: [
-                                                {
-                                                  name: "model",
-                                                  rawName: "v-model.number",
-                                                  value: _vm.pregunta2,
-                                                  expression: "pregunta2",
-                                                  modifiers: { number: true }
-                                                }
-                                              ],
-                                              staticClass: "form-check-input",
-                                              attrs: {
-                                                required: "",
-                                                type: "radio",
-                                                name: "pregunta2",
-                                                value: "1"
-                                              },
-                                              domProps: {
-                                                checked: _vm._q(
-                                                  _vm.pregunta2,
-                                                  _vm._n("1")
-                                                )
-                                              },
-                                              on: {
-                                                change: function($event) {
-                                                  _vm.pregunta2 = _vm._n("1")
-                                                }
-                                              }
-                                            }),
-                                            _vm._v(" "),
-                                            _c(
-                                              "label",
-                                              {
-                                                staticClass: "form-check-label",
-                                                attrs: { for: "pregunta21" }
-                                              },
-                                              [_vm._v("puedo esperar 1 semana")]
-                                            )
-                                          ]
-                                        ),
-                                        _vm._v(" "),
-                                        _c(
-                                          "div",
-                                          {
-                                            staticClass:
-                                              "form-check form-check-inline"
-                                          },
-                                          [
-                                            _c("input", {
-                                              directives: [
-                                                {
-                                                  name: "model",
-                                                  rawName: "v-model.number",
-                                                  value: _vm.pregunta2,
-                                                  expression: "pregunta2",
-                                                  modifiers: { number: true }
-                                                }
-                                              ],
-                                              staticClass: "form-check-input",
-                                              attrs: {
-                                                type: "radio",
-                                                name: "pregunta2",
-                                                value: "3"
-                                              },
-                                              domProps: {
-                                                checked: _vm._q(
-                                                  _vm.pregunta2,
-                                                  _vm._n("3")
-                                                )
-                                              },
-                                              on: {
-                                                change: function($event) {
-                                                  _vm.pregunta2 = _vm._n("3")
-                                                }
-                                              }
-                                            }),
-                                            _vm._v(" "),
-                                            _c(
-                                              "label",
-                                              {
-                                                staticClass: "form-check-label",
-                                                attrs: { for: "pregunta22" }
-                                              },
-                                              [
-                                                _vm._v(
-                                                  "puedo esperar entre 2 y cuatro semanas"
-                                                )
-                                              ]
-                                            )
-                                          ]
-                                        ),
-                                        _vm._v(" "),
-                                        _c(
-                                          "div",
-                                          {
-                                            staticClass:
-                                              "form-check form-check-inline"
-                                          },
-                                          [
-                                            _c("input", {
-                                              directives: [
-                                                {
-                                                  name: "model",
-                                                  rawName: "v-model.number",
-                                                  value: _vm.pregunta2,
-                                                  expression: "pregunta2",
-                                                  modifiers: { number: true }
-                                                }
-                                              ],
-                                              staticClass: "form-check-input",
-                                              attrs: {
-                                                type: "radio",
-                                                name: "pregunta2",
-                                                value: "5"
-                                              },
-                                              domProps: {
-                                                checked: _vm._q(
-                                                  _vm.pregunta2,
-                                                  _vm._n("5")
-                                                )
-                                              },
-                                              on: {
-                                                change: function($event) {
-                                                  _vm.pregunta2 = _vm._n("5")
-                                                }
-                                              }
-                                            }),
-                                            _vm._v(" "),
-                                            _c(
-                                              "label",
-                                              {
-                                                staticClass: "form-check-label",
-                                                attrs: { for: "pregunta23" }
-                                              },
-                                              [
-                                                _vm._v(
-                                                  "puedo esperar 4 semanas"
-                                                )
-                                              ]
-                                            )
-                                          ]
-                                        )
-                                      ])
-                                    : _vm._e(),
-                                  _vm._v(" "),
-                                  _vm.contador == 3
-                                    ? _c("div", { staticClass: "form-group" }, [
-                                        _c("p", [
-                                          _vm._v(
-                                            "¿Cuantas tiendas fisicas o punto de atencion/venta tienes actualmente?"
-                                          )
-                                        ]),
-                                        _vm._v(" "),
-                                        _c(
-                                          "div",
-                                          {
-                                            staticClass:
-                                              "form-check form-check-inline"
-                                          },
-                                          [
-                                            _c("input", {
-                                              directives: [
-                                                {
-                                                  name: "model",
-                                                  rawName: "v-model.number",
-                                                  value: _vm.pregunta3,
-                                                  expression: "pregunta3",
-                                                  modifiers: { number: true }
-                                                }
-                                              ],
-                                              staticClass: "form-check-input",
-                                              attrs: {
-                                                required: "",
-                                                type: "radio",
-                                                name: "pregunta3",
-                                                value: "1"
-                                              },
-                                              domProps: {
-                                                checked: _vm._q(
-                                                  _vm.pregunta3,
-                                                  _vm._n("1")
-                                                )
-                                              },
-                                              on: {
-                                                change: function($event) {
-                                                  _vm.pregunta3 = _vm._n("1")
-                                                }
-                                              }
-                                            }),
-                                            _vm._v(" "),
-                                            _c(
-                                              "label",
-                                              {
-                                                staticClass: "form-check-label",
-                                                attrs: { for: "pregunta31" }
-                                              },
-                                              [_vm._v("0")]
-                                            )
-                                          ]
-                                        ),
-                                        _vm._v(" "),
-                                        _c(
-                                          "div",
-                                          {
-                                            staticClass:
-                                              "form-check form-check-inline"
-                                          },
-                                          [
-                                            _c("input", {
-                                              directives: [
-                                                {
-                                                  name: "model",
-                                                  rawName: "v-model.number",
-                                                  value: _vm.pregunta3,
-                                                  expression: "pregunta3",
-                                                  modifiers: { number: true }
-                                                }
-                                              ],
-                                              staticClass: "form-check-input",
-                                              attrs: {
-                                                type: "radio",
-                                                name: "pregunta3",
-                                                value: "3"
-                                              },
-                                              domProps: {
-                                                checked: _vm._q(
-                                                  _vm.pregunta3,
-                                                  _vm._n("3")
-                                                )
-                                              },
-                                              on: {
-                                                change: function($event) {
-                                                  _vm.pregunta3 = _vm._n("3")
-                                                }
-                                              }
-                                            }),
-                                            _vm._v(" "),
-                                            _c(
-                                              "label",
-                                              {
-                                                staticClass: "form-check-label",
-                                                attrs: { for: "pregunta32" }
-                                              },
-                                              [_vm._v("1")]
-                                            )
-                                          ]
-                                        ),
-                                        _vm._v(" "),
-                                        _c(
-                                          "div",
-                                          {
-                                            staticClass:
-                                              "form-check form-check-inline"
-                                          },
-                                          [
-                                            _c("input", {
-                                              directives: [
-                                                {
-                                                  name: "model",
-                                                  rawName: "v-model.number",
-                                                  value: _vm.pregunta3,
-                                                  expression: "pregunta3",
-                                                  modifiers: { number: true }
-                                                }
-                                              ],
-                                              staticClass: "form-check-input",
-                                              attrs: {
-                                                type: "radio",
-                                                name: "pregunta3",
-                                                value: "5"
-                                              },
-                                              domProps: {
-                                                checked: _vm._q(
-                                                  _vm.pregunta3,
-                                                  _vm._n("5")
-                                                )
-                                              },
-                                              on: {
-                                                change: function($event) {
-                                                  _vm.pregunta3 = _vm._n("5")
-                                                }
-                                              }
-                                            }),
-                                            _vm._v(" "),
-                                            _c(
-                                              "label",
-                                              {
-                                                staticClass: "form-check-label",
-                                                attrs: { for: "pregunta33" }
-                                              },
-                                              [_vm._v("mas de 1")]
-                                            )
-                                          ]
-                                        )
-                                      ])
-                                    : _vm._e(),
-                                  _vm._v(" "),
-                                  _vm.contador == 4
-                                    ? _c("div", { staticClass: "form-group" }, [
-                                        _c("p", [
-                                          _vm._v(
-                                            "¿Que tan personalizable quieres tu tienda virtual?"
-                                          )
-                                        ]),
-                                        _vm._v(" "),
-                                        _c(
-                                          "div",
-                                          {
-                                            staticClass:
-                                              "form-check form-check-inline"
-                                          },
-                                          [
-                                            _c("input", {
-                                              directives: [
-                                                {
-                                                  name: "model",
-                                                  rawName: "v-model.number",
-                                                  value: _vm.pregunta4,
-                                                  expression: "pregunta4",
-                                                  modifiers: { number: true }
-                                                }
-                                              ],
-                                              staticClass: "form-check-input",
-                                              attrs: {
-                                                required: "",
-                                                type: "radio",
-                                                name: "pregunta4",
-                                                value: "1"
-                                              },
-                                              domProps: {
-                                                checked: _vm._q(
-                                                  _vm.pregunta4,
-                                                  _vm._n("1")
-                                                )
-                                              },
-                                              on: {
-                                                change: function($event) {
-                                                  _vm.pregunta4 = _vm._n("1")
-                                                }
-                                              }
-                                            }),
-                                            _vm._v(" "),
-                                            _c(
-                                              "label",
-                                              {
-                                                staticClass: "form-check-label",
-                                                attrs: { for: "pregunta41" }
-                                              },
-                                              [
-                                                _vm._v(
-                                                  "Básica: que me permita actualizar Logo, banners, categorías, productos, referencias, precios, blog, direcciones, políticas de pago y botón de whatsapp."
-                                                )
-                                              ]
-                                            )
-                                          ]
-                                        ),
-                                        _vm._v(" "),
-                                        _c(
-                                          "div",
-                                          {
-                                            staticClass:
-                                              "form-check form-check-inline"
-                                          },
-                                          [
-                                            _c("input", {
-                                              directives: [
-                                                {
-                                                  name: "model",
-                                                  rawName: "v-model.number",
-                                                  value: _vm.pregunta4,
-                                                  expression: "pregunta4",
-                                                  modifiers: { number: true }
-                                                }
-                                              ],
-                                              staticClass: "form-check-input",
-                                              attrs: {
-                                                type: "radio",
-                                                name: "pregunta4",
-                                                value: "3"
-                                              },
-                                              domProps: {
-                                                checked: _vm._q(
-                                                  _vm.pregunta4,
-                                                  _vm._n("3")
-                                                )
-                                              },
-                                              on: {
-                                                change: function($event) {
-                                                  _vm.pregunta4 = _vm._n("3")
-                                                }
-                                              }
-                                            }),
-                                            _vm._v(" "),
-                                            _c(
-                                              "label",
-                                              {
-                                                staticClass: "form-check-label",
-                                                attrs: { for: "pregunta42" }
-                                              },
-                                              [
-                                                _vm._v(
-                                                  "Media: que me permita actualizar Logo, colores, Categorias, productos, referencias, precios, Upselling, politicas de pago, tipos de clientes, tipos de usuarios, notificaciones por correo, vendedores, canales de ventas"
-                                                )
-                                              ]
-                                            )
-                                          ]
-                                        ),
-                                        _vm._v(" "),
-                                        _c(
-                                          "div",
-                                          {
-                                            staticClass:
-                                              "form-check form-check-inline"
-                                          },
-                                          [
-                                            _c("input", {
-                                              directives: [
-                                                {
-                                                  name: "model",
-                                                  rawName: "v-model.number",
-                                                  value: _vm.pregunta4,
-                                                  expression: "pregunta4",
-                                                  modifiers: { number: true }
-                                                }
-                                              ],
-                                              staticClass: "form-check-input",
-                                              attrs: {
-                                                type: "radio",
-                                                name: "pregunta4",
-                                                value: "5"
-                                              },
-                                              domProps: {
-                                                checked: _vm._q(
-                                                  _vm.pregunta4,
-                                                  _vm._n("5")
-                                                )
-                                              },
-                                              on: {
-                                                change: function($event) {
-                                                  _vm.pregunta4 = _vm._n("5")
-                                                }
-                                              }
-                                            }),
-                                            _vm._v(" "),
-                                            _c(
-                                              "label",
-                                              {
-                                                staticClass: "form-check-label",
-                                                attrs: { for: "pregunta43" }
-                                              },
-                                              [
-                                                _vm._v(
-                                                  "Full: Que pueda actualizar siempre mis productos, personalizar espacios y crear desarrolos a medida como probadores de ropa, personalización de productos, etc. "
-                                                )
-                                              ]
-                                            )
-                                          ]
-                                        )
-                                      ])
-                                    : _vm._e(),
-                                  _vm._v(" "),
-                                  _vm.contador == 5
-                                    ? _c("div", { staticClass: "form-group" }, [
-                                        _c("p", [
-                                          _vm._v(
-                                            "¿Tienes un equipo asignado internamente en tu empresa que te ayude a manejar tu Tienda Virtual?"
-                                          )
-                                        ]),
-                                        _vm._v(" "),
-                                        _c(
-                                          "div",
-                                          {
-                                            staticClass:
-                                              "form-check form-check-inline"
-                                          },
-                                          [
-                                            _c("input", {
-                                              directives: [
-                                                {
-                                                  name: "model",
-                                                  rawName: "v-model.number",
-                                                  value: _vm.pregunta5,
-                                                  expression: "pregunta5",
-                                                  modifiers: { number: true }
-                                                }
-                                              ],
-                                              staticClass: "form-check-input",
-                                              attrs: {
-                                                required: "",
-                                                type: "radio",
-                                                name: "pregunta5",
-                                                value: "1"
-                                              },
-                                              domProps: {
-                                                checked: _vm._q(
-                                                  _vm.pregunta5,
-                                                  _vm._n("1")
-                                                )
-                                              },
-                                              on: {
-                                                change: function($event) {
-                                                  _vm.pregunta5 = _vm._n("1")
-                                                }
-                                              }
-                                            }),
-                                            _vm._v(" "),
-                                            _c(
-                                              "label",
-                                              {
-                                                staticClass: "form-check-label",
-                                                attrs: { for: "pregunta51" }
-                                              },
-                                              [
-                                                _vm._v(
-                                                  "No, busco hacerlo yo mismo"
-                                                )
-                                              ]
-                                            )
-                                          ]
-                                        ),
-                                        _vm._v(" "),
-                                        _c(
-                                          "div",
-                                          {
-                                            staticClass:
-                                              "form-check form-check-inline"
-                                          },
-                                          [
-                                            _c("input", {
-                                              directives: [
-                                                {
-                                                  name: "model",
-                                                  rawName: "v-model.number",
-                                                  value: _vm.pregunta5,
-                                                  expression: "pregunta5",
-                                                  modifiers: { number: true }
-                                                }
-                                              ],
-                                              staticClass: "form-check-input",
-                                              attrs: {
-                                                type: "radio",
-                                                name: "pregunta5",
-                                                value: "3"
-                                              },
-                                              domProps: {
-                                                checked: _vm._q(
-                                                  _vm.pregunta5,
-                                                  _vm._n("3")
-                                                )
-                                              },
-                                              on: {
-                                                change: function($event) {
-                                                  _vm.pregunta5 = _vm._n("3")
-                                                }
-                                              }
-                                            }),
-                                            _vm._v(" "),
-                                            _c(
-                                              "label",
-                                              {
-                                                staticClass: "form-check-label",
-                                                attrs: { for: "pregunta52" }
-                                              },
-                                              [
-                                                _vm._v(
-                                                  "Si, un equipo de mercadeo pequeño al que podría capacitar"
-                                                )
-                                              ]
-                                            )
-                                          ]
-                                        ),
-                                        _vm._v(" "),
-                                        _c(
-                                          "div",
-                                          {
-                                            staticClass:
-                                              "form-check form-check-inline"
-                                          },
-                                          [
-                                            _c("input", {
-                                              directives: [
-                                                {
-                                                  name: "model",
-                                                  rawName: "v-model.number",
-                                                  value: _vm.pregunta5,
-                                                  expression: "pregunta5",
-                                                  modifiers: { number: true }
-                                                }
-                                              ],
-                                              staticClass: "form-check-input",
-                                              attrs: {
-                                                type: "radio",
-                                                name: "pregunta5",
-                                                value: "5"
-                                              },
-                                              domProps: {
-                                                checked: _vm._q(
-                                                  _vm.pregunta5,
-                                                  _vm._n("5")
-                                                )
-                                              },
-                                              on: {
-                                                change: function($event) {
-                                                  _vm.pregunta5 = _vm._n("5")
-                                                }
-                                              }
-                                            }),
-                                            _vm._v(" "),
-                                            _c(
-                                              "label",
-                                              {
-                                                staticClass: "form-check-label",
-                                                attrs: { for: "pregunta53" }
-                                              },
-                                              [
-                                                _vm._v(
-                                                  "Si, un equipo de mercadeo y TI robusto"
-                                                )
-                                              ]
-                                            )
-                                          ]
-                                        )
-                                      ])
-                                    : _vm._e(),
-                                  _vm._v(" "),
-                                  _vm.contador == 6
-                                    ? _c("div", { staticClass: "form-group" }, [
-                                        _c("p", [
-                                          _vm._v(
-                                            "¿Cómo podrías cargar inventario de tus productos o servicios en la Tienda Virtual?"
-                                          )
-                                        ]),
-                                        _vm._v(" "),
-                                        _c(
-                                          "div",
-                                          {
-                                            staticClass:
-                                              "form-check form-check-inline"
-                                          },
-                                          [
-                                            _c("input", {
-                                              directives: [
-                                                {
-                                                  name: "model",
-                                                  rawName: "v-model.number",
-                                                  value: _vm.pregunta6,
-                                                  expression: "pregunta6",
-                                                  modifiers: { number: true }
-                                                }
-                                              ],
-                                              staticClass: "form-check-input",
-                                              attrs: {
-                                                required: "",
-                                                type: "radio",
-                                                name: "pregunta6",
-                                                value: "1"
-                                              },
-                                              domProps: {
-                                                checked: _vm._q(
-                                                  _vm.pregunta6,
-                                                  _vm._n("1")
-                                                )
-                                              },
-                                              on: {
-                                                change: function($event) {
-                                                  _vm.pregunta6 = _vm._n("1")
-                                                }
-                                              }
-                                            }),
-                                            _vm._v(" "),
-                                            _c(
-                                              "label",
-                                              {
-                                                staticClass: "form-check-label",
-                                                attrs: { for: "pregunta61" }
-                                              },
-                                              [_vm._v("Manualmente")]
-                                            )
-                                          ]
-                                        ),
-                                        _vm._v(" "),
-                                        _c(
-                                          "div",
-                                          {
-                                            staticClass:
-                                              "form-check form-check-inline"
-                                          },
-                                          [
-                                            _c("input", {
-                                              directives: [
-                                                {
-                                                  name: "model",
-                                                  rawName: "v-model.number",
-                                                  value: _vm.pregunta6,
-                                                  expression: "pregunta6",
-                                                  modifiers: { number: true }
-                                                }
-                                              ],
-                                              staticClass: "form-check-input",
-                                              attrs: {
-                                                type: "radio",
-                                                name: "pregunta6",
-                                                value: "4"
-                                              },
-                                              domProps: {
-                                                checked: _vm._q(
-                                                  _vm.pregunta6,
-                                                  _vm._n("4")
-                                                )
-                                              },
-                                              on: {
-                                                change: function($event) {
-                                                  _vm.pregunta6 = _vm._n("4")
-                                                }
-                                              }
-                                            }),
-                                            _vm._v(" "),
-                                            _c(
-                                              "label",
-                                              {
-                                                staticClass: "form-check-label",
-                                                attrs: { for: "pregunta62" }
-                                              },
-                                              [
-                                                _vm._v(
-                                                  "Tengo un software de inventarios que podría integrar"
-                                                )
-                                              ]
-                                            )
-                                          ]
-                                        )
-                                      ])
-                                    : _vm._e(),
-                                  _vm._v(" "),
-                                  _vm.contador == 7
-                                    ? _c("div", { staticClass: "form-group" }, [
-                                        _c("p", [
-                                          _vm._v(
-                                            "¿Cómo se daría la facturación en tu Tienda Virtual?"
-                                          )
-                                        ]),
-                                        _vm._v(" "),
-                                        _c(
-                                          "div",
-                                          {
-                                            staticClass:
-                                              "form-check form-check-inline"
-                                          },
-                                          [
-                                            _c("input", {
-                                              directives: [
-                                                {
-                                                  name: "model",
-                                                  rawName: "v-model.number",
-                                                  value: _vm.pregunta7,
-                                                  expression: "pregunta7",
-                                                  modifiers: { number: true }
-                                                }
-                                              ],
-                                              staticClass: "form-check-input",
-                                              attrs: {
-                                                required: "",
-                                                type: "radio",
-                                                name: "pregunta7",
-                                                value: "1"
-                                              },
-                                              domProps: {
-                                                checked: _vm._q(
-                                                  _vm.pregunta7,
-                                                  _vm._n("1")
-                                                )
-                                              },
-                                              on: {
-                                                change: function($event) {
-                                                  _vm.pregunta7 = _vm._n("1")
-                                                }
-                                              }
-                                            }),
-                                            _vm._v(" "),
-                                            _c(
-                                              "label",
-                                              {
-                                                staticClass: "form-check-label",
-                                                attrs: { for: "pregunta71" }
-                                              },
-                                              [_vm._v("La hago manualmente")]
-                                            )
-                                          ]
-                                        ),
-                                        _vm._v(" "),
-                                        _c(
-                                          "div",
-                                          {
-                                            staticClass:
-                                              "form-check form-check-inline"
-                                          },
-                                          [
-                                            _c("input", {
-                                              directives: [
-                                                {
-                                                  name: "model",
-                                                  rawName: "v-model.number",
-                                                  value: _vm.pregunta7,
-                                                  expression: "pregunta7",
-                                                  modifiers: { number: true }
-                                                }
-                                              ],
-                                              staticClass: "form-check-input",
-                                              attrs: {
-                                                type: "radio",
-                                                name: "pregunta7",
-                                                value: "3"
-                                              },
-                                              domProps: {
-                                                checked: _vm._q(
-                                                  _vm.pregunta7,
-                                                  _vm._n("3")
-                                                )
-                                              },
-                                              on: {
-                                                change: function($event) {
-                                                  _vm.pregunta7 = _vm._n("3")
-                                                }
-                                              }
-                                            }),
-                                            _vm._v(" "),
-                                            _c(
-                                              "label",
-                                              {
-                                                staticClass: "form-check-label",
-                                                attrs: { for: "pregunta72" }
-                                              },
-                                              [
-                                                _vm._v(
-                                                  "Quiero que la haga mi Tienda Virtual"
-                                                )
-                                              ]
-                                            )
-                                          ]
-                                        ),
-                                        _vm._v(" "),
-                                        _c(
-                                          "div",
-                                          {
-                                            staticClass:
-                                              "form-check form-check-inline"
-                                          },
-                                          [
-                                            _c("input", {
-                                              directives: [
-                                                {
-                                                  name: "model",
-                                                  rawName: "v-model.number",
-                                                  value: _vm.pregunta7,
-                                                  expression: "pregunta7",
-                                                  modifiers: { number: true }
-                                                }
-                                              ],
-                                              staticClass: "form-check-input",
-                                              attrs: {
-                                                type: "radio",
-                                                name: "pregunta7",
-                                                value: "5"
-                                              },
-                                              domProps: {
-                                                checked: _vm._q(
-                                                  _vm.pregunta7,
-                                                  _vm._n("5")
-                                                )
-                                              },
-                                              on: {
-                                                change: function($event) {
-                                                  _vm.pregunta7 = _vm._n("5")
-                                                }
-                                              }
-                                            }),
-                                            _vm._v(" "),
-                                            _c(
-                                              "label",
-                                              {
-                                                staticClass: "form-check-label",
-                                                attrs: { for: "pregunta73" }
-                                              },
-                                              [
-                                                _vm._v(
-                                                  "Tengo un software que podría integrar con mi Tienda Virtual para facturar"
-                                                )
-                                              ]
-                                            )
-                                          ]
-                                        )
-                                      ])
-                                    : _vm._e(),
-                                  _vm._v(" "),
-                                  _vm.contador == 8
-                                    ? _c(
-                                        "button",
+                                      ]),
+                                      _vm._v(" "),
+                                      _c(
+                                        "div",
                                         {
                                           staticClass:
-                                            "btn btn-primary btn-block",
-                                          attrs: { type: "submit" }
+                                            "form-check form-check-inline"
                                         },
                                         [
-                                          _vm._v(
-                                            "Conoce la tienda ideal para ti"
+                                          _c("input", {
+                                            directives: [
+                                              {
+                                                name: "model",
+                                                rawName: "v-model.number",
+                                                value: _vm.pregunta1,
+                                                expression: "pregunta1",
+                                                modifiers: { number: true }
+                                              }
+                                            ],
+                                            staticClass: "form-check-input",
+                                            attrs: {
+                                              required: "",
+                                              type: "radio",
+                                              name: "pregunta1",
+                                              value: "1"
+                                            },
+                                            domProps: {
+                                              checked: _vm._q(
+                                                _vm.pregunta1,
+                                                _vm._n("1")
+                                              )
+                                            },
+                                            on: {
+                                              change: function($event) {
+                                                _vm.pregunta1 = _vm._n("1")
+                                              }
+                                            }
+                                          }),
+                                          _vm._v(" "),
+                                          _c(
+                                            "label",
+                                            {
+                                              staticClass: "form-check-label",
+                                              attrs: { for: "pregunta11" }
+                                            },
+                                            [_vm._v("si")]
+                                          )
+                                        ]
+                                      ),
+                                      _vm._v(" "),
+                                      _c(
+                                        "div",
+                                        {
+                                          staticClass:
+                                            "form-check form-check-inline"
+                                        },
+                                        [
+                                          _c("input", {
+                                            directives: [
+                                              {
+                                                name: "model",
+                                                rawName: "v-model.number",
+                                                value: _vm.pregunta1,
+                                                expression: "pregunta1",
+                                                modifiers: { number: true }
+                                              }
+                                            ],
+                                            staticClass: "form-check-input",
+                                            attrs: {
+                                              type: "radio",
+                                              name: "pregunta1",
+                                              value: "2"
+                                            },
+                                            domProps: {
+                                              checked: _vm._q(
+                                                _vm.pregunta1,
+                                                _vm._n("2")
+                                              )
+                                            },
+                                            on: {
+                                              change: function($event) {
+                                                _vm.pregunta1 = _vm._n("2")
+                                              }
+                                            }
+                                          }),
+                                          _vm._v(" "),
+                                          _c(
+                                            "label",
+                                            {
+                                              staticClass: "form-check-label",
+                                              attrs: { for: "pregunta12" }
+                                            },
+                                            [_vm._v("no")]
+                                          )
+                                        ]
+                                      ),
+                                      _vm._v(" "),
+                                      _c(
+                                        "div",
+                                        {
+                                          staticClass:
+                                            "form-check form-check-inline"
+                                        },
+                                        [
+                                          _c("input", {
+                                            directives: [
+                                              {
+                                                name: "model",
+                                                rawName: "v-model.number",
+                                                value: _vm.pregunta1,
+                                                expression: "pregunta1",
+                                                modifiers: { number: true }
+                                              }
+                                            ],
+                                            staticClass: "form-check-input",
+                                            attrs: {
+                                              type: "radio",
+                                              name: "pregunta1",
+                                              value: "3"
+                                            },
+                                            domProps: {
+                                              checked: _vm._q(
+                                                _vm.pregunta1,
+                                                _vm._n("3")
+                                              )
+                                            },
+                                            on: {
+                                              change: function($event) {
+                                                _vm.pregunta1 = _vm._n("3")
+                                              }
+                                            }
+                                          }),
+                                          _vm._v(" "),
+                                          _c(
+                                            "label",
+                                            {
+                                              staticClass: "form-check-label",
+                                              attrs: { for: "pregunta13" }
+                                            },
+                                            [_vm._v("no lo se")]
                                           )
                                         ]
                                       )
-                                    : _vm._e(),
-                                  _vm._v(" "),
-                                  _vm.contador > 1 && _vm.contador < 8
-                                    ? _c(
-                                        "button",
+                                    ])
+                                  : _vm._e(),
+                                _vm._v(" "),
+                                _vm.contador == 2
+                                  ? _c("div", { staticClass: "form-group" }, [
+                                      _c("p", [
+                                        _vm._v(
+                                          "¿En cuanto tiempo necesitas que tu tienda virtual este al aire?"
+                                        )
+                                      ]),
+                                      _vm._v(" "),
+                                      _c(
+                                        "div",
                                         {
-                                          staticClass: "btn btn-primary",
-                                          attrs: { type: "button" },
-                                          on: {
-                                            click: function($event) {
-                                              _vm.contador = _vm.contador - 1
+                                          staticClass:
+                                            "form-check form-check-inline"
+                                        },
+                                        [
+                                          _c("input", {
+                                            directives: [
+                                              {
+                                                name: "model",
+                                                rawName: "v-model.number",
+                                                value: _vm.pregunta2,
+                                                expression: "pregunta2",
+                                                modifiers: { number: true }
+                                              }
+                                            ],
+                                            staticClass: "form-check-input",
+                                            attrs: {
+                                              required: "",
+                                              type: "radio",
+                                              name: "pregunta2",
+                                              value: "1"
+                                            },
+                                            domProps: {
+                                              checked: _vm._q(
+                                                _vm.pregunta2,
+                                                _vm._n("1")
+                                              )
+                                            },
+                                            on: {
+                                              change: function($event) {
+                                                _vm.pregunta2 = _vm._n("1")
+                                              }
                                             }
-                                          }
-                                        },
-                                        [_vm._v("Anterior")]
-                                      )
-                                    : _vm._e(),
-                                  _vm._v(" "),
-                                  _vm.contador < 8
-                                    ? _c(
-                                        "button",
+                                          }),
+                                          _vm._v(" "),
+                                          _c(
+                                            "label",
+                                            {
+                                              staticClass: "form-check-label",
+                                              attrs: { for: "pregunta21" }
+                                            },
+                                            [_vm._v("puedo esperar 1 semana")]
+                                          )
+                                        ]
+                                      ),
+                                      _vm._v(" "),
+                                      _c(
+                                        "div",
                                         {
-                                          staticClass: "btn btn-primary",
-                                          attrs: { type: "button" },
-                                          on: { click: _vm.contar }
+                                          staticClass:
+                                            "form-check form-check-inline"
                                         },
-                                        [_vm._v("Siguiente")]
+                                        [
+                                          _c("input", {
+                                            directives: [
+                                              {
+                                                name: "model",
+                                                rawName: "v-model.number",
+                                                value: _vm.pregunta2,
+                                                expression: "pregunta2",
+                                                modifiers: { number: true }
+                                              }
+                                            ],
+                                            staticClass: "form-check-input",
+                                            attrs: {
+                                              type: "radio",
+                                              name: "pregunta2",
+                                              value: "3"
+                                            },
+                                            domProps: {
+                                              checked: _vm._q(
+                                                _vm.pregunta2,
+                                                _vm._n("3")
+                                              )
+                                            },
+                                            on: {
+                                              change: function($event) {
+                                                _vm.pregunta2 = _vm._n("3")
+                                              }
+                                            }
+                                          }),
+                                          _vm._v(" "),
+                                          _c(
+                                            "label",
+                                            {
+                                              staticClass: "form-check-label",
+                                              attrs: { for: "pregunta22" }
+                                            },
+                                            [
+                                              _vm._v(
+                                                "puedo esperar entre 2 y cuatro semanas"
+                                              )
+                                            ]
+                                          )
+                                        ]
+                                      ),
+                                      _vm._v(" "),
+                                      _c(
+                                        "div",
+                                        {
+                                          staticClass:
+                                            "form-check form-check-inline"
+                                        },
+                                        [
+                                          _c("input", {
+                                            directives: [
+                                              {
+                                                name: "model",
+                                                rawName: "v-model.number",
+                                                value: _vm.pregunta2,
+                                                expression: "pregunta2",
+                                                modifiers: { number: true }
+                                              }
+                                            ],
+                                            staticClass: "form-check-input",
+                                            attrs: {
+                                              type: "radio",
+                                              name: "pregunta2",
+                                              value: "5"
+                                            },
+                                            domProps: {
+                                              checked: _vm._q(
+                                                _vm.pregunta2,
+                                                _vm._n("5")
+                                              )
+                                            },
+                                            on: {
+                                              change: function($event) {
+                                                _vm.pregunta2 = _vm._n("5")
+                                              }
+                                            }
+                                          }),
+                                          _vm._v(" "),
+                                          _c(
+                                            "label",
+                                            {
+                                              staticClass: "form-check-label",
+                                              attrs: { for: "pregunta23" }
+                                            },
+                                            [_vm._v("puedo esperar 4 semanas")]
+                                          )
+                                        ]
                                       )
-                                    : _vm._e()
-                                ]
-                              )
-                            ])
-                          ]
-                        )
-                      ])
+                                    ])
+                                  : _vm._e(),
+                                _vm._v(" "),
+                                _vm.contador == 3
+                                  ? _c("div", { staticClass: "form-group" }, [
+                                      _c("p", [
+                                        _vm._v(
+                                          "¿Cuantas tiendas fisicas o punto de atencion/venta tienes actualmente?"
+                                        )
+                                      ]),
+                                      _vm._v(" "),
+                                      _c(
+                                        "div",
+                                        {
+                                          staticClass:
+                                            "form-check form-check-inline"
+                                        },
+                                        [
+                                          _c("input", {
+                                            directives: [
+                                              {
+                                                name: "model",
+                                                rawName: "v-model.number",
+                                                value: _vm.pregunta3,
+                                                expression: "pregunta3",
+                                                modifiers: { number: true }
+                                              }
+                                            ],
+                                            staticClass: "form-check-input",
+                                            attrs: {
+                                              required: "",
+                                              type: "radio",
+                                              name: "pregunta3",
+                                              value: "1"
+                                            },
+                                            domProps: {
+                                              checked: _vm._q(
+                                                _vm.pregunta3,
+                                                _vm._n("1")
+                                              )
+                                            },
+                                            on: {
+                                              change: function($event) {
+                                                _vm.pregunta3 = _vm._n("1")
+                                              }
+                                            }
+                                          }),
+                                          _vm._v(" "),
+                                          _c(
+                                            "label",
+                                            {
+                                              staticClass: "form-check-label",
+                                              attrs: { for: "pregunta31" }
+                                            },
+                                            [_vm._v("0")]
+                                          )
+                                        ]
+                                      ),
+                                      _vm._v(" "),
+                                      _c(
+                                        "div",
+                                        {
+                                          staticClass:
+                                            "form-check form-check-inline"
+                                        },
+                                        [
+                                          _c("input", {
+                                            directives: [
+                                              {
+                                                name: "model",
+                                                rawName: "v-model.number",
+                                                value: _vm.pregunta3,
+                                                expression: "pregunta3",
+                                                modifiers: { number: true }
+                                              }
+                                            ],
+                                            staticClass: "form-check-input",
+                                            attrs: {
+                                              type: "radio",
+                                              name: "pregunta3",
+                                              value: "3"
+                                            },
+                                            domProps: {
+                                              checked: _vm._q(
+                                                _vm.pregunta3,
+                                                _vm._n("3")
+                                              )
+                                            },
+                                            on: {
+                                              change: function($event) {
+                                                _vm.pregunta3 = _vm._n("3")
+                                              }
+                                            }
+                                          }),
+                                          _vm._v(" "),
+                                          _c(
+                                            "label",
+                                            {
+                                              staticClass: "form-check-label",
+                                              attrs: { for: "pregunta32" }
+                                            },
+                                            [_vm._v("1")]
+                                          )
+                                        ]
+                                      ),
+                                      _vm._v(" "),
+                                      _c(
+                                        "div",
+                                        {
+                                          staticClass:
+                                            "form-check form-check-inline"
+                                        },
+                                        [
+                                          _c("input", {
+                                            directives: [
+                                              {
+                                                name: "model",
+                                                rawName: "v-model.number",
+                                                value: _vm.pregunta3,
+                                                expression: "pregunta3",
+                                                modifiers: { number: true }
+                                              }
+                                            ],
+                                            staticClass: "form-check-input",
+                                            attrs: {
+                                              type: "radio",
+                                              name: "pregunta3",
+                                              value: "5"
+                                            },
+                                            domProps: {
+                                              checked: _vm._q(
+                                                _vm.pregunta3,
+                                                _vm._n("5")
+                                              )
+                                            },
+                                            on: {
+                                              change: function($event) {
+                                                _vm.pregunta3 = _vm._n("5")
+                                              }
+                                            }
+                                          }),
+                                          _vm._v(" "),
+                                          _c(
+                                            "label",
+                                            {
+                                              staticClass: "form-check-label",
+                                              attrs: { for: "pregunta33" }
+                                            },
+                                            [_vm._v("mas de 1")]
+                                          )
+                                        ]
+                                      )
+                                    ])
+                                  : _vm._e(),
+                                _vm._v(" "),
+                                _vm.contador == 4
+                                  ? _c("div", { staticClass: "form-group" }, [
+                                      _c("p", [
+                                        _vm._v(
+                                          "¿Que tan personalizable quieres tu tienda virtual?"
+                                        )
+                                      ]),
+                                      _vm._v(" "),
+                                      _c(
+                                        "div",
+                                        {
+                                          staticClass:
+                                            "form-check form-check-inline"
+                                        },
+                                        [
+                                          _c("input", {
+                                            directives: [
+                                              {
+                                                name: "model",
+                                                rawName: "v-model.number",
+                                                value: _vm.pregunta4,
+                                                expression: "pregunta4",
+                                                modifiers: { number: true }
+                                              }
+                                            ],
+                                            staticClass: "form-check-input",
+                                            attrs: {
+                                              required: "",
+                                              type: "radio",
+                                              name: "pregunta4",
+                                              value: "1"
+                                            },
+                                            domProps: {
+                                              checked: _vm._q(
+                                                _vm.pregunta4,
+                                                _vm._n("1")
+                                              )
+                                            },
+                                            on: {
+                                              change: function($event) {
+                                                _vm.pregunta4 = _vm._n("1")
+                                              }
+                                            }
+                                          }),
+                                          _vm._v(" "),
+                                          _c(
+                                            "label",
+                                            {
+                                              staticClass: "form-check-label",
+                                              attrs: { for: "pregunta41" }
+                                            },
+                                            [
+                                              _vm._v(
+                                                "Básica: que me permita actualizar Logo, banners, categorías, productos, referencias, precios, blog, direcciones, políticas de pago y botón de whatsapp."
+                                              )
+                                            ]
+                                          )
+                                        ]
+                                      ),
+                                      _vm._v(" "),
+                                      _c(
+                                        "div",
+                                        {
+                                          staticClass:
+                                            "form-check form-check-inline"
+                                        },
+                                        [
+                                          _c("input", {
+                                            directives: [
+                                              {
+                                                name: "model",
+                                                rawName: "v-model.number",
+                                                value: _vm.pregunta4,
+                                                expression: "pregunta4",
+                                                modifiers: { number: true }
+                                              }
+                                            ],
+                                            staticClass: "form-check-input",
+                                            attrs: {
+                                              type: "radio",
+                                              name: "pregunta4",
+                                              value: "3"
+                                            },
+                                            domProps: {
+                                              checked: _vm._q(
+                                                _vm.pregunta4,
+                                                _vm._n("3")
+                                              )
+                                            },
+                                            on: {
+                                              change: function($event) {
+                                                _vm.pregunta4 = _vm._n("3")
+                                              }
+                                            }
+                                          }),
+                                          _vm._v(" "),
+                                          _c(
+                                            "label",
+                                            {
+                                              staticClass: "form-check-label",
+                                              attrs: { for: "pregunta42" }
+                                            },
+                                            [
+                                              _vm._v(
+                                                "Media: que me permita actualizar Logo, colores, Categorias, productos, referencias, precios, Upselling, politicas de pago, tipos de clientes, tipos de usuarios, notificaciones por correo, vendedores, canales de ventas"
+                                              )
+                                            ]
+                                          )
+                                        ]
+                                      ),
+                                      _vm._v(" "),
+                                      _c(
+                                        "div",
+                                        {
+                                          staticClass:
+                                            "form-check form-check-inline"
+                                        },
+                                        [
+                                          _c("input", {
+                                            directives: [
+                                              {
+                                                name: "model",
+                                                rawName: "v-model.number",
+                                                value: _vm.pregunta4,
+                                                expression: "pregunta4",
+                                                modifiers: { number: true }
+                                              }
+                                            ],
+                                            staticClass: "form-check-input",
+                                            attrs: {
+                                              type: "radio",
+                                              name: "pregunta4",
+                                              value: "5"
+                                            },
+                                            domProps: {
+                                              checked: _vm._q(
+                                                _vm.pregunta4,
+                                                _vm._n("5")
+                                              )
+                                            },
+                                            on: {
+                                              change: function($event) {
+                                                _vm.pregunta4 = _vm._n("5")
+                                              }
+                                            }
+                                          }),
+                                          _vm._v(" "),
+                                          _c(
+                                            "label",
+                                            {
+                                              staticClass: "form-check-label",
+                                              attrs: { for: "pregunta43" }
+                                            },
+                                            [
+                                              _vm._v(
+                                                "Full: Que pueda actualizar siempre mis productos, personalizar espacios y crear desarrolos a medida como probadores de ropa, personalización de productos, etc. "
+                                              )
+                                            ]
+                                          )
+                                        ]
+                                      )
+                                    ])
+                                  : _vm._e(),
+                                _vm._v(" "),
+                                _vm.contador == 5
+                                  ? _c("div", { staticClass: "form-group" }, [
+                                      _c("p", [
+                                        _vm._v(
+                                          "¿Tienes un equipo asignado internamente en tu empresa que te ayude a manejar tu Tienda Virtual?"
+                                        )
+                                      ]),
+                                      _vm._v(" "),
+                                      _c(
+                                        "div",
+                                        {
+                                          staticClass:
+                                            "form-check form-check-inline"
+                                        },
+                                        [
+                                          _c("input", {
+                                            directives: [
+                                              {
+                                                name: "model",
+                                                rawName: "v-model.number",
+                                                value: _vm.pregunta5,
+                                                expression: "pregunta5",
+                                                modifiers: { number: true }
+                                              }
+                                            ],
+                                            staticClass: "form-check-input",
+                                            attrs: {
+                                              required: "",
+                                              type: "radio",
+                                              name: "pregunta5",
+                                              value: "1"
+                                            },
+                                            domProps: {
+                                              checked: _vm._q(
+                                                _vm.pregunta5,
+                                                _vm._n("1")
+                                              )
+                                            },
+                                            on: {
+                                              change: function($event) {
+                                                _vm.pregunta5 = _vm._n("1")
+                                              }
+                                            }
+                                          }),
+                                          _vm._v(" "),
+                                          _c(
+                                            "label",
+                                            {
+                                              staticClass: "form-check-label",
+                                              attrs: { for: "pregunta51" }
+                                            },
+                                            [
+                                              _vm._v(
+                                                "No, busco hacerlo yo mismo"
+                                              )
+                                            ]
+                                          )
+                                        ]
+                                      ),
+                                      _vm._v(" "),
+                                      _c(
+                                        "div",
+                                        {
+                                          staticClass:
+                                            "form-check form-check-inline"
+                                        },
+                                        [
+                                          _c("input", {
+                                            directives: [
+                                              {
+                                                name: "model",
+                                                rawName: "v-model.number",
+                                                value: _vm.pregunta5,
+                                                expression: "pregunta5",
+                                                modifiers: { number: true }
+                                              }
+                                            ],
+                                            staticClass: "form-check-input",
+                                            attrs: {
+                                              type: "radio",
+                                              name: "pregunta5",
+                                              value: "3"
+                                            },
+                                            domProps: {
+                                              checked: _vm._q(
+                                                _vm.pregunta5,
+                                                _vm._n("3")
+                                              )
+                                            },
+                                            on: {
+                                              change: function($event) {
+                                                _vm.pregunta5 = _vm._n("3")
+                                              }
+                                            }
+                                          }),
+                                          _vm._v(" "),
+                                          _c(
+                                            "label",
+                                            {
+                                              staticClass: "form-check-label",
+                                              attrs: { for: "pregunta52" }
+                                            },
+                                            [
+                                              _vm._v(
+                                                "Si, un equipo de mercadeo pequeño al que podría capacitar"
+                                              )
+                                            ]
+                                          )
+                                        ]
+                                      ),
+                                      _vm._v(" "),
+                                      _c(
+                                        "div",
+                                        {
+                                          staticClass:
+                                            "form-check form-check-inline"
+                                        },
+                                        [
+                                          _c("input", {
+                                            directives: [
+                                              {
+                                                name: "model",
+                                                rawName: "v-model.number",
+                                                value: _vm.pregunta5,
+                                                expression: "pregunta5",
+                                                modifiers: { number: true }
+                                              }
+                                            ],
+                                            staticClass: "form-check-input",
+                                            attrs: {
+                                              type: "radio",
+                                              name: "pregunta5",
+                                              value: "5"
+                                            },
+                                            domProps: {
+                                              checked: _vm._q(
+                                                _vm.pregunta5,
+                                                _vm._n("5")
+                                              )
+                                            },
+                                            on: {
+                                              change: function($event) {
+                                                _vm.pregunta5 = _vm._n("5")
+                                              }
+                                            }
+                                          }),
+                                          _vm._v(" "),
+                                          _c(
+                                            "label",
+                                            {
+                                              staticClass: "form-check-label",
+                                              attrs: { for: "pregunta53" }
+                                            },
+                                            [
+                                              _vm._v(
+                                                "Si, un equipo de mercadeo y TI robusto"
+                                              )
+                                            ]
+                                          )
+                                        ]
+                                      )
+                                    ])
+                                  : _vm._e(),
+                                _vm._v(" "),
+                                _vm.contador == 6
+                                  ? _c("div", { staticClass: "form-group" }, [
+                                      _c("p", [
+                                        _vm._v(
+                                          "¿Cómo podrías cargar inventario de tus productos o servicios en la Tienda Virtual?"
+                                        )
+                                      ]),
+                                      _vm._v(" "),
+                                      _c(
+                                        "div",
+                                        {
+                                          staticClass:
+                                            "form-check form-check-inline"
+                                        },
+                                        [
+                                          _c("input", {
+                                            directives: [
+                                              {
+                                                name: "model",
+                                                rawName: "v-model.number",
+                                                value: _vm.pregunta6,
+                                                expression: "pregunta6",
+                                                modifiers: { number: true }
+                                              }
+                                            ],
+                                            staticClass: "form-check-input",
+                                            attrs: {
+                                              required: "",
+                                              type: "radio",
+                                              name: "pregunta6",
+                                              value: "1"
+                                            },
+                                            domProps: {
+                                              checked: _vm._q(
+                                                _vm.pregunta6,
+                                                _vm._n("1")
+                                              )
+                                            },
+                                            on: {
+                                              change: function($event) {
+                                                _vm.pregunta6 = _vm._n("1")
+                                              }
+                                            }
+                                          }),
+                                          _vm._v(" "),
+                                          _c(
+                                            "label",
+                                            {
+                                              staticClass: "form-check-label",
+                                              attrs: { for: "pregunta61" }
+                                            },
+                                            [_vm._v("Manualmente")]
+                                          )
+                                        ]
+                                      ),
+                                      _vm._v(" "),
+                                      _c(
+                                        "div",
+                                        {
+                                          staticClass:
+                                            "form-check form-check-inline"
+                                        },
+                                        [
+                                          _c("input", {
+                                            directives: [
+                                              {
+                                                name: "model",
+                                                rawName: "v-model.number",
+                                                value: _vm.pregunta6,
+                                                expression: "pregunta6",
+                                                modifiers: { number: true }
+                                              }
+                                            ],
+                                            staticClass: "form-check-input",
+                                            attrs: {
+                                              type: "radio",
+                                              name: "pregunta6",
+                                              value: "4"
+                                            },
+                                            domProps: {
+                                              checked: _vm._q(
+                                                _vm.pregunta6,
+                                                _vm._n("4")
+                                              )
+                                            },
+                                            on: {
+                                              change: function($event) {
+                                                _vm.pregunta6 = _vm._n("4")
+                                              }
+                                            }
+                                          }),
+                                          _vm._v(" "),
+                                          _c(
+                                            "label",
+                                            {
+                                              staticClass: "form-check-label",
+                                              attrs: { for: "pregunta62" }
+                                            },
+                                            [
+                                              _vm._v(
+                                                "Tengo un software de inventarios que podría integrar"
+                                              )
+                                            ]
+                                          )
+                                        ]
+                                      )
+                                    ])
+                                  : _vm._e(),
+                                _vm._v(" "),
+                                _vm.contador == 7
+                                  ? _c("div", { staticClass: "form-group" }, [
+                                      _c("p", [
+                                        _vm._v(
+                                          "¿Cómo se daría la facturación en tu Tienda Virtual?"
+                                        )
+                                      ]),
+                                      _vm._v(" "),
+                                      _c(
+                                        "div",
+                                        {
+                                          staticClass:
+                                            "form-check form-check-inline"
+                                        },
+                                        [
+                                          _c("input", {
+                                            directives: [
+                                              {
+                                                name: "model",
+                                                rawName: "v-model.number",
+                                                value: _vm.pregunta7,
+                                                expression: "pregunta7",
+                                                modifiers: { number: true }
+                                              }
+                                            ],
+                                            staticClass: "form-check-input",
+                                            attrs: {
+                                              required: "",
+                                              type: "radio",
+                                              name: "pregunta7",
+                                              value: "1"
+                                            },
+                                            domProps: {
+                                              checked: _vm._q(
+                                                _vm.pregunta7,
+                                                _vm._n("1")
+                                              )
+                                            },
+                                            on: {
+                                              change: function($event) {
+                                                _vm.pregunta7 = _vm._n("1")
+                                              }
+                                            }
+                                          }),
+                                          _vm._v(" "),
+                                          _c(
+                                            "label",
+                                            {
+                                              staticClass: "form-check-label",
+                                              attrs: { for: "pregunta71" }
+                                            },
+                                            [_vm._v("La hago manualmente")]
+                                          )
+                                        ]
+                                      ),
+                                      _vm._v(" "),
+                                      _c(
+                                        "div",
+                                        {
+                                          staticClass:
+                                            "form-check form-check-inline"
+                                        },
+                                        [
+                                          _c("input", {
+                                            directives: [
+                                              {
+                                                name: "model",
+                                                rawName: "v-model.number",
+                                                value: _vm.pregunta7,
+                                                expression: "pregunta7",
+                                                modifiers: { number: true }
+                                              }
+                                            ],
+                                            staticClass: "form-check-input",
+                                            attrs: {
+                                              type: "radio",
+                                              name: "pregunta7",
+                                              value: "3"
+                                            },
+                                            domProps: {
+                                              checked: _vm._q(
+                                                _vm.pregunta7,
+                                                _vm._n("3")
+                                              )
+                                            },
+                                            on: {
+                                              change: function($event) {
+                                                _vm.pregunta7 = _vm._n("3")
+                                              }
+                                            }
+                                          }),
+                                          _vm._v(" "),
+                                          _c(
+                                            "label",
+                                            {
+                                              staticClass: "form-check-label",
+                                              attrs: { for: "pregunta72" }
+                                            },
+                                            [
+                                              _vm._v(
+                                                "Quiero que la haga mi Tienda Virtual"
+                                              )
+                                            ]
+                                          )
+                                        ]
+                                      ),
+                                      _vm._v(" "),
+                                      _c(
+                                        "div",
+                                        {
+                                          staticClass:
+                                            "form-check form-check-inline"
+                                        },
+                                        [
+                                          _c("input", {
+                                            directives: [
+                                              {
+                                                name: "model",
+                                                rawName: "v-model.number",
+                                                value: _vm.pregunta7,
+                                                expression: "pregunta7",
+                                                modifiers: { number: true }
+                                              }
+                                            ],
+                                            staticClass: "form-check-input",
+                                            attrs: {
+                                              type: "radio",
+                                              name: "pregunta7",
+                                              value: "5"
+                                            },
+                                            domProps: {
+                                              checked: _vm._q(
+                                                _vm.pregunta7,
+                                                _vm._n("5")
+                                              )
+                                            },
+                                            on: {
+                                              change: function($event) {
+                                                _vm.pregunta7 = _vm._n("5")
+                                              }
+                                            }
+                                          }),
+                                          _vm._v(" "),
+                                          _c(
+                                            "label",
+                                            {
+                                              staticClass: "form-check-label",
+                                              attrs: { for: "pregunta73" }
+                                            },
+                                            [
+                                              _vm._v(
+                                                "Tengo un software que podría integrar con mi Tienda Virtual para facturar"
+                                              )
+                                            ]
+                                          )
+                                        ]
+                                      )
+                                    ])
+                                  : _vm._e(),
+                                _vm._v(" "),
+                                _vm.contador == 8
+                                  ? _c(
+                                      "button",
+                                      {
+                                        staticClass:
+                                          "btn btn-primary btn-block",
+                                        attrs: { type: "submit" }
+                                      },
+                                      [_vm._v("Conoce la tienda ideal para ti")]
+                                    )
+                                  : _vm._e(),
+                                _vm._v(" "),
+                                _vm.contador > 1 && _vm.contador < 8
+                                  ? _c(
+                                      "button",
+                                      {
+                                        staticClass: "btn btn-primary",
+                                        attrs: { type: "button" },
+                                        on: {
+                                          click: function($event) {
+                                            _vm.contador = _vm.contador - 1
+                                          }
+                                        }
+                                      },
+                                      [_vm._v("Anterior")]
+                                    )
+                                  : _vm._e(),
+                                _vm._v(" "),
+                                _vm.contador < 8
+                                  ? _c(
+                                      "button",
+                                      {
+                                        staticClass: "btn btn-primary",
+                                        attrs: { type: "button" },
+                                        on: { click: _vm.contar }
+                                      },
+                                      [_vm._v("Siguiente")]
+                                    )
+                                  : _vm._e()
+                              ]
+                            )
+                          ])
+                        ]
+                      )
                     ])
                   ])
-                ]
-              )
-            ])
-          ]
-        )
+                ])
+              ]
+            )
+          ])
+        ])
       ]
     )
   ])
@@ -41512,7 +41682,13 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "col-12" }, [
-      _c("p", { staticClass: "text-center h3" }, [
+      _c(
+        "p",
+        { staticClass: "text-center d-lg-none", attrs: { id: "eslogan" } },
+        [_vm._v("El que tenga tienda que no la atienda")]
+      ),
+      _vm._v(" "),
+      _c("p", { staticClass: "text-center h3", attrs: { id: "pregunta" } }, [
         _vm._v("¿Cual es la tienda virtual mas indicada para mi?")
       ])
     ])
@@ -41581,7 +41757,8 @@ var render = function() {
             [
               _c("div", { staticClass: "col-sm-12 col-md-3" }, [
                 _c("img", {
-                  staticClass: "img-fluid mx-auto d-block rounded-circle w-100",
+                  staticClass:
+                    "img-fluid mx-auto d-block rounded-circle w-100 m-3",
                   attrs: { src: usuario.avatar, alt: "" }
                 })
               ]),
@@ -41590,7 +41767,7 @@ var render = function() {
                 _c(
                   "div",
                   {
-                    staticClass: "card mt-3",
+                    staticClass: "card m-3",
                     attrs: { id: "card-testimonios" }
                   },
                   [
@@ -41652,7 +41829,7 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c("div", [
+  return _c("div", { attrs: { id: "super-caja-vtex" } }, [
     _c(
       "div",
       { attrs: { id: "vtex" } },
@@ -41692,7 +41869,7 @@ var render = function() {
       ]),
       _vm._v(" "),
       _c("div", { staticClass: "row" }, [
-        _c("div", { staticClass: "col-sm-12 col-md-6" }, [
+        _c("div", { staticClass: "col-sm-12 col-md-6 my-3" }, [
           _c(
             "a",
             { attrs: { href: "" }, on: { click: _vm.navegarexpress } },
@@ -41701,7 +41878,7 @@ var render = function() {
           )
         ]),
         _vm._v(" "),
-        _c("div", { staticClass: "col-sm-12 col-md-6" }, [
+        _c("div", { staticClass: "col-sm-12 col-md-6 my-3" }, [
           _c(
             "a",
             { attrs: { href: "" }, on: { click: _vm.navegarmarketplace } },
@@ -41826,8 +42003,8 @@ var staticRenderFns = [
     return _c(
       "div",
       {
-        staticClass: "card",
-        staticStyle: { height: "250px" },
+        staticClass: "card  mt-3",
+        staticStyle: { height: "100%" },
         attrs: { id: "express-sub" }
       },
       [
@@ -41875,8 +42052,8 @@ var staticRenderFns = [
     return _c(
       "div",
       {
-        staticClass: "card",
-        staticStyle: { height: "250px" },
+        staticClass: "card  mt-3",
+        staticStyle: { height: "100%" },
         attrs: { id: "carta-1" }
       },
       [
@@ -41926,8 +42103,8 @@ var staticRenderFns = [
     return _c(
       "div",
       {
-        staticClass: "card",
-        staticStyle: { height: "250px" },
+        staticClass: "card mt-3",
+        staticStyle: { height: "100%" },
         attrs: { id: "vtex-sub" }
       },
       [
@@ -54186,6 +54363,17 @@ module.exports = "/images/linkedin-brands.svg?d9049f461eb3dd661b7f77c6e56e7593";
 /***/ (function(module, exports) {
 
 module.exports = "/images/logo-cpc.png?15f592112c8e8a64e02d770191622ff0";
+
+/***/ }),
+
+/***/ "./public/image/oficina.jpg":
+/*!**********************************!*\
+  !*** ./public/image/oficina.jpg ***!
+  \**********************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/images/oficina.jpg?94370651cf283f66871dbf5b0f01abe7";
 
 /***/ }),
 
